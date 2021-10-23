@@ -1,0 +1,12 @@
+export { AggregatePublisherArgs } from "./AggregatePublisherArgs";
+export { CreateManyPublisherArgs } from "./CreateManyPublisherArgs";
+export { CreatePublisherArgs } from "./CreatePublisherArgs";
+export { DeleteManyPublisherArgs } from "./DeleteManyPublisherArgs";
+export { DeletePublisherArgs } from "./DeletePublisherArgs";
+export { FindFirstPublisherArgs } from "./FindFirstPublisherArgs";
+export { FindManyPublisherArgs } from "./FindManyPublisherArgs";
+export { FindUniquePublisherArgs } from "./FindUniquePublisherArgs";
+export { GroupByPublisherArgs } from "./GroupByPublisherArgs";
+export { UpdateManyPublisherArgs } from "./UpdateManyPublisherArgs";
+export { UpdatePublisherArgs } from "./UpdatePublisherArgs";
+export { UpsertPublisherArgs } from "./UpsertPublisherArgs";
